@@ -13,8 +13,8 @@ Serial# 1234998871109
 
 **/
 
-var machine = "https://54.69.100.159:8000/goapi/gumball";
-var endpoint = "https://54.69.100.159:8000/goapi/order";
+var machine = "http://54.69.100.159:8000/goapi/gumball";
+var endpoint = "http://54.69.100.159:8000/goapi/order";
 
 
 var fs = require('fs');
